@@ -12,7 +12,7 @@ User Avatar using JavaScript and CSS
 ``` 
 
 ### Output
-![UserAvatar](https://raw.githubusercontent.com/4akhilkumar/UserAvatar/master/Screenshot%202022-06-26%20192710.jpg "ToastMessageJS")
+![UserAvatar](https://raw.githubusercontent.com/4akhilkumar/UserAvatar/master/Screenshot%202022-06-26%20192710.jpg "UserAvatar")
 
 ### Reference
 [Easily Generate User Avatars for Your Website with CSS](https://www.youtube.com/watch?v=o8d-bjPzI-g)
