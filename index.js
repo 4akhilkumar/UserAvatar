@@ -1,5 +1,3 @@
-let avatarContainer;
-
 (function initAvatar() {
   document.body.insertAdjacentHTML('afterbegin', 
   `<style>
@@ -22,7 +20,6 @@ let avatarContainer;
     }
 
   </style>`);
-  avatarContainer = document.querySelector('.avatar-container');
 })()
 
 const avatars = document.querySelectorAll('.avatar');
